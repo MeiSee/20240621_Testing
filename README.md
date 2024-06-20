@@ -15,8 +15,8 @@ This repository is a simple project created for the purpose of learning how to u
 ### Steps
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/github-learning-project.git```
+```bash
+   git clone https://github.com/your-username/github-learning-project.git
 ```
 
 2. **Navigate to the project directory**:
